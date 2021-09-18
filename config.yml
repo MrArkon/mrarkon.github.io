@@ -1,0 +1,42 @@
+title: MrArkon
+theme: PaperMod
+
+markup: 
+  goldmark: 
+    renderer:
+      unsafe: true
+
+params:
+  env: production
+  defaultTheme: auto
+  custom_css: ["css/styles.css"]
+  profileMode:
+    enabled: true
+    title: Hi, I'm MrArkon.
+    subtitle: I'm a Python, Rust & Web Developer
+  socialIcons:
+    - name: discord
+      url: https://discord.com
+    - name: github
+      url: https://github.com/MrArkon
+    - name: instagram
+      url: https://instagram.com/MrArkon
+    - name: stackoverflow
+      url: https://stackoverflow.com/users/16821575/mrarkon
+    - name: twitter
+      url: https://twitter.com/MrArkon
+    - name: youtube
+      url: https://www.youtube.com/channel/UCr-qPRkrdwWrsETXT7ztQsQ
+    - name: spotify
+      url: https://open.spotify.com/user/0qitotsixb8xkw4v2s98cc6bc
+
+menu:
+  main:
+    - identifier: Home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: Projects
+      name: Projects
+      url: /projects
+      weight: 20
