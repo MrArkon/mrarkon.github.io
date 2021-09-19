@@ -1,5 +1,5 @@
 #icon {
-    transition: 420ms;
+    transition: transform 420ms;
 }
 
 #icon:hover {
