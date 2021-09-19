@@ -7,6 +7,11 @@ markup:
       unsafe: true
 
 params:
+  description: A personal website to showcase MrArkon's projects
+  keywords:
+    - MrArkon
+    - Portfolio
+    - Projects
   env: production
   defaultTheme: auto
   profileMode:

@@ -38,7 +38,8 @@
 {{- $reset := (resources.Get "css/core/reset.css") }}
 {{- $media := (resources.Get "css/core/zmedia.css") }}
 {{- $common := (resources.Match "css/common/*.css") | resources.Concat "assets/css/common.css" }}
-{{ $style := resources.Get "styles.css" | minify | fingerprint }}
+
+{{ $style := resources.Get "css/styles.css" | minify | fingerprint }}
 <link rel="stylesheet" href="{{ $style.Permalink }}">
 
 {{- /* include `an-old-hope` if hljs is on */}}
