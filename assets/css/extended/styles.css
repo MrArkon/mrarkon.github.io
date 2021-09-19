@@ -1,0 +1,22 @@
+#icon {
+    transition: transform 420ms ease;
+}
+
+#icon:hover {
+    transform: scale(1.25)
+  }
+
+.logo a {
+    font-size: 24px;
+    font-weight: 700;
+    transition: transform 300ms ease;
+}
+
+.logo a:hover {
+    transform: scale(1.05);
+}
+
+::selection {
+    color: #444452;
+    background: #ffdc00;
+}
