@@ -9,7 +9,6 @@ markup:
 params:
   env: production
   defaultTheme: auto
-  custom_css: ["css/styles.css"]
   profileMode:
     enabled: true
     title: Hi, I'm MrArkon.
