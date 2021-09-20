@@ -16,6 +16,45 @@
     transform: scale(1.05);
 }
 
+.post-content a {
+    box-shadow: none;
+}
+.post-content a {
+    display: inline-block;
+    position: relative;
+}
+.post-content a:after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: var(--content);
+    transform-origin: bottom right;
+    transition: transform 0.25s ease-out;
+  }
+  
+  .post-content a:hover:after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+  }
+
+.post-content dt ~ dt, .post-content dd ~ dd {
+    margin-top: 1.5rem;
+  }
+  .post-content dt em {
+    display: block;
+    text-align: left;
+  
+    font-size: 0.875rem;
+    font-weight: 400;
+    font-style: normal;
+  
+    color: var(--secondary);
+  }
+
 ::selection {
     color: #444452;
     background: #ffdc00;
