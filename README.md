@@ -27,6 +27,7 @@
 * Dark & Light theme
 * Minified CSS & Javascript
 * Total Page Size is 9 KB
+* [100% LightHouse report](https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fmrarkon.github.io%2F)
 
 ## Installation & Setup
 1. Install [Hugo](https://gohugo.io/getting-started/installing)
