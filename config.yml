@@ -1,5 +1,6 @@
 title: MrArkon
 theme: PaperMod
+baseURL: https://mrarkon.github.io/
 
 markup: 
   goldmark: 
