@@ -23,5 +23,10 @@
   </a>
 </p>
 
+## Features
+* Dark & Light theme
+* Minified CSS & Javascript
+* Total Page Size is 9 KB
+
 ## License
 This repository is licensed under the GPL 3.0 license. See the file [`LICENSE`](https://github.com/MrArkon/mrarkon.github.io/blob/master/LICENSE) for more information.
