@@ -7,8 +7,13 @@ markup:
     renderer:
       unsafe: true
 
+assets:
+  - disableHLJS: true
+
 params:
   description: A personal website to showcase MrArkon's projects
+  images: 
+    - /apple-touch-icon.png
   keywords:
     - MrArkon
     - Portfolio
