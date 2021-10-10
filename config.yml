@@ -17,6 +17,7 @@ params:
   keywords:
     - MrArkon
     - Portfolio
+    - About
     - Projects
   env: production
   defaultTheme: auto
@@ -46,7 +47,11 @@ menu:
       name: Home
       url: /
       weight: 10
+    - identifier: About
+      name: About
+      url: /about
+      weight: 20
     - identifier: Projects
       name: Projects
       url: /projects
-      weight: 20
+      weight: 30
