@@ -2,6 +2,17 @@
 title: About Me
 layout: single
 showReadingTime: false
+description: About me & List of technologies I use
+keywords:
+  - MrArkon
+  - Python
+  - Hugo
+  - TailWindCSS
+  - Postgresql
+  - Redis
+  - SQLite
+  - Visual Studio Code
+  - Sublime Text
 ---
 
 > My name on the internet is **MrArkon**, I'm a passionate **Full Stack** developer from **India**, I mainly work with [**Python**](https://python.org) & [**Rust**](https://rust-lang.org), but I am always learning.
