@@ -11,7 +11,7 @@ assets:
   - disableHLJS: true
 
 params:
-  description: A personal website to showcase MrArkon's projects
+  description: I'm a Hobbyist Programmer who loves Python & Rust, I also develop websites occasionally
   images: 
     - /apple-touch-icon.png
   keywords:
@@ -24,7 +24,7 @@ params:
   profileMode:
     enabled: true
     title: Hi, I'm MrArkon.
-    subtitle: I'm a Python, Rust & Web Developer
+    subtitle: I'm a Hobbyist Programmer who loves Python & Rust
   socialIcons:
     - name: discord
       url: https://discord.com/users/733370212199694467
