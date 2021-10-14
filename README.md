@@ -23,7 +23,7 @@
   </a>
 </p>
 
-## Preview
+## Screenshots
 
 | Light Theme | Dark Theme |
 | ----------- | ---------- |
