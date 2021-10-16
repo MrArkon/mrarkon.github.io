@@ -23,6 +23,12 @@
   </a>
 </p>
 
+## Screenshots
+
+| Light Theme | Dark Theme |
+| ----------- | ---------- |
+| <img src="img/light_screenshot.png" width="540" /> | <img src="img/dark_screenshot.png" width="540" /> |
+
 ## Features
 * Dark & Light theme
 * Minified CSS & Javascript
