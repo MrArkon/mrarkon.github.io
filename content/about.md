@@ -15,7 +15,7 @@ keywords:
   - Sublime Text
 ---
 
-> My name on the internet is **MrArkon**, I'm a Hobbyist Programmer from **India** who loves [**Python**](https://python.org) & [**Rust**](https://rust-lang.org), I also develop websites occasionally
+> My name on the internet is **MrArkon**, I'm a Hobbyist Programmer from **India** who loves [**Python**](https://python.org) & [**Rust**](https://rust-lang.org), Occasional Web Developer & Designer
 
 ## Technologies I use
   ### Web Technologies
