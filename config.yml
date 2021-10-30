@@ -23,8 +23,8 @@ params:
   defaultTheme: auto
   profileMode:
     enabled: true
-    title: Hi, I'm MrArkon.
-    subtitle: I'm a Hobbyist Programmer who loves Python & Rust
+    title: MrArkon
+    subtitle: Hobbyist Programmer | Python & Rust Enthusiast
   socialIcons:
     - name: discord
       url: https://discord.com/users/733370212199694467
@@ -32,8 +32,6 @@ params:
       url: https://github.com/MrArkon
     - name: instagram
       url: https://instagram.com/MrArkon
-    - name: stackoverflow
-      url: https://stackoverflow.com/users/16821575/mrarkon
     - name: twitter
       url: https://twitter.com/MrArkon
     - name: youtube
