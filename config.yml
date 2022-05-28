@@ -36,8 +36,6 @@ params:
       url: https://twitter.com/MrArkon
     - name: youtube
       url: https://www.youtube.com/channel/UCr-qPRkrdwWrsETXT7ztQsQ
-    - name: twitch
-      url: https://www.twitch.tv/itsmrarkon
     - name: reddit
       url: https://reddit.com/u/mr_arkon
     - name: spotify
