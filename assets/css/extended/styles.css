@@ -1,3 +1,4 @@
+/* Hover effects on social media icons*/
 #icon {
     transition: transform 420ms ease;
 }
@@ -6,6 +7,33 @@
     transform: scale(1.25)
   }
 
+/* Underline Animation */
+.post-content a,
+.post-description a {
+  position: relative;
+  text-decoration: none;
+  box-shadow: none;
+}
+
+.post-content a::before,
+.post-description a::before {
+  content: "";
+  position: absolute;
+  display: block;
+  width: 100%;
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: var(--content);
+  transform: scaleX(0);
+  transition: transform 0.3s ease;
+}
+
+a:hover::before {
+  transform: scaleX(1);
+}
+
+/* For the Projects Page*/
 .post-content dt ~ dt, .post-content dd ~ dd {
     margin-top: 1.5rem;
   }
