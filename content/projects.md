@@ -7,14 +7,14 @@ modified: 2021-09-20
 keywords:
   - MrArkon
   - kitsu.py
-  - Simplicity
+  - LiamBot
   - Rustic
 ---
 
 [Kitsu.py](https://github.com/MrArkon/kitsu.py) *Creator & Maintainer* *2021 - present*
 : Kitsu.py is a simple & lightweight [**Python**](https://python.org) library for Kitsu's Manga & Anime API.
 
-[Simplicity](https://github.com/MrArkon/Simplicity) *Creator* *2022 - present*
+[LiamBot](https://github.com/MrArkon/LiamBot) *Creator* *2022 - present*
 : An Efficient, Straightforward and Powerful Discord Bot with slash commands, Written in [**Python**](https://python.org) using [**Discord.py**](https://github.com/Rapptz/discord.py)
 
 [Rustic](https://github.com/MrArkon/Rustic) *Creator* *2021 - present*
