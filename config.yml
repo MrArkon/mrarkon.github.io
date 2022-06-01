@@ -11,9 +11,7 @@ assets:
   - disableHLJS: true
 
 params:
-  description: I'm a Hobbyist Programmer who loves Python & Rust, Occasional Web Developer & Designer
-  images: 
-    - /apple-touch-icon.png
+  description: Hobbyist Programmer | Python & Rust Enthusiast | Occasional Web Developer
   keywords:
     - MrArkon
     - Portfolio
