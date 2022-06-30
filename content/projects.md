@@ -14,8 +14,8 @@ keywords:
 [Kitsu.py](https://github.com/MrArkon/kitsu.py) *Creator & Maintainer* *2021 - present*
 : Kitsu.py is a simple & lightweight [**Python**](https://python.org) library for Kitsu's Manga & Anime API.
 
-[LiamBot](https://github.com/MrArkon/LiamBot) *Creator* *2022 - present*
-: An Efficient, Straightforward and Powerful Discord Bot with slash commands, Written in [**Python**](https://python.org) using [**Discord.py**](https://github.com/Rapptz/discord.py)
+[JukeBox](https://github.com/MrArkon/JukeBox) *Creator* *2022 - present*
+: An efficient, straightforward and customisable music bot for discord, Written in [**Python**](https://python.org) using [**discord.py**](https://github.com/Rapptz/discord.py)
 
 [Rustic](https://github.com/MrArkon/Rustic) *Creator* *2021 - present*
 : Rustic is a Multi-Purpose Discord bot packed with features. It's written in [**Rust**](https://rust-lang.org) with [**Serenity**](http://github.com/serenity-rs/serenity)
