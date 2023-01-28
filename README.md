@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://github.com/MrArkon/mrarkon.github.io/actions/workflows/gh-pages.yml">
     <img alt="Workflow" 
-         src="https://img.shields.io/github/workflow/status/MrArkon/mrarkon.github.io/deploy?logo=github&style=for-the-badge">
+         src="https://img.shields.io/github/actions/workflow/status/MrArkon/mrarkon.github.io/.github/workflows/gh-pages.yml?branch=master?logo=github&style=for-the-badge">
   </a>
   <a href="https://github.com/MrArkon/mrarkon.github.io/blob/master/LICENSE">
     <img alt="License" 
