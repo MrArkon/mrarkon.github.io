@@ -1,5 +1,5 @@
 # mrarkon.github.io
-[![](https://img.shields.io/github/actions/workflow/status/MrArkon/mrarkon.github.io/.github/workflows/gh-pages.yml?branch=master?logo=github&style=for-the-badge)](https://github.com/MrArkon/mrarkon.github.io/actions/workflows/gh-pages.yml)
+[![](https://img.shields.io/github/actions/workflow/status/MrArkon/mrarkon.github.io/gh-pages.yml?logo=github&style=for-the-badge)](https://github.com/MrArkon/mrarkon.github.io/actions/workflows/gh-pages.yml)
 [![](https://img.shields.io/github/license/MrArkon/mrarkon.github.io?style=for-the-badge)](https://github.com/MrArkon/mrarkon.github.io/blob/rewrite/LICENSE)
 [![](https://img.shields.io/github/issues/MrArkon/mrarkon.github.io?label=ISSUES&logo=github&style=for-the-badge)](https://github.com/MrArkon/mrarkon.github.io/issues)
 
