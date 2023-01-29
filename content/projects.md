@@ -1,13 +1,15 @@
 --- 
 title: Projects
 layout: single
-description: A list of all of the projects I've worked on or I'm currently working on.
+description: These are all of my open-source projects I've worked on or I'm currently working on.
 showReadingTime: false
-modified: 2021-09-20
+modified: 2023-01-29
 keywords:
   - MrArkon
   - kitsu.py
-  - LiamBot
+  - JukeBox
+  - Winston
+  - Portfolio
   - Rustic
 ---
 
@@ -15,10 +17,13 @@ keywords:
 : Kitsu.py is a simple & lightweight [**Python**](https://python.org) library for Kitsu's Manga & Anime API.
 
 [JukeBox](https://github.com/MrArkon/JukeBox) *Creator* *2022 - present*
-: An efficient, straightforward and customisable music bot for discord, Written in [**Python**](https://python.org) using [**discord.py**](https://github.com/Rapptz/discord.py)
+: JukeBox is a high quality open source discord music bot supporting a wide range of music sources such as YouTube, SoundCloud and Spotify. Written in [**Python**](https://python.org) using [**discord.py**](https://github.com/Rapptz/discord.py)
 
-[Rustic](https://github.com/MrArkon/Rustic) *Creator* *2021 - present*
-: Rustic is a Multi-Purpose Discord bot packed with features. It's written in [**Rust**](https://rust-lang.org) with [**Serenity**](http://github.com/serenity-rs/serenity)
+[Winston](https://github.com/MrArkon/JukeBox) *Creator* *2023 - present*
+: Winston is an open-source discord bot which brings numerous utilities & moderation tools for your discord server. Written in [**Python**](https://python.org) using [**discord.py**](https://github.com/Rapptz/discord.py)
 
 [Portfolio](https://mrarkon.github.io) *Creator* *2021 - present*
 : The website you're currently on! Powered by [**Hugo**](https://gohugo.io/) & [**PaperMod**](https://git.io/hugopapermod) with custom CSS & Tweaks
+
+[Rustic](https://github.com/MrArkon/Rustic) *Creator* *2021 - 2022*
+: Rustic is a Multi-Purpose Discord bot packed with features. It's written in [**Rust**](https://rust-lang.org) with [**Serenity**](http://github.com/serenity-rs/serenity)

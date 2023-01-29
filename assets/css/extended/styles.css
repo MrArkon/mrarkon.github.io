@@ -1,11 +1,16 @@
 /* Hover effects on social media icons*/
-#icon {
+#icon, #discord, #twitter, #youtube, #spotify {
     transition: transform 420ms ease;
 }
 
-#icon:hover {
-    transform: scale(1.25)
+#icon:hover, #discord:hover, #twitter:hover, #youtube:hover, #spotify:hover {
+    transform: scale(1.15);
   }
+
+#discord:hover {color: #5865F2}
+#twitter:hover {color: #1DA1F2}
+#youtube:hover {color: #FF0000}
+#spotify:hover {color: #1DB954}
 
 /* Underline Animation */
 .post-content a,

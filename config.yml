@@ -11,7 +11,7 @@ assets:
   - disableHLJS: true
 
 params:
-  description: Hobbyist Programmer | Python & Rust Enthusiast | Occasional Web Developer
+  description: Hello! I'm known as MrArkon on the internet. I'm a passionate hobbyist programmer hailing from India. I'm well versed in Python & Rust, but I'm always eager to expand my skillset by learning new programming languages and experimenting with cutting-edge technologies.
   keywords:
     - MrArkon
     - Portfolio
@@ -19,23 +19,18 @@ params:
     - Projects
   env: production
   defaultTheme: auto
-  profileMode:
-    enabled: true
-    title: MrArkon
-    subtitle: Hobbyist Programmer | Python & Rust Enthusiast
+  homeInfoParams:
+    Title: MrArkon
+    Content: Hello! I'm known as **MrArkon** on the internet. I'm a passionate hobbyist programmer hailing from India. I'm well versed in Python & Rust, but I'm always eager to expand my skillset by learning new programming languages and experimenting with cutting-edge technologies.
   socialIcons:
     - name: discord
       url: https://discord.com/users/733370212199694467
     - name: github
       url: https://github.com/MrArkon
-    - name: instagram
-      url: https://instagram.com/MrArkon
     - name: twitter
       url: https://twitter.com/MrArkon
     - name: youtube
       url: https://www.youtube.com/channel/UCr-qPRkrdwWrsETXT7ztQsQ
-    - name: reddit
-      url: https://reddit.com/u/mr_arkon
     - name: spotify
       url: https://open.spotify.com/user/0qitotsixb8xkw4v2s98cc6bc
 
@@ -45,11 +40,7 @@ menu:
       name: Home
       url: /
       weight: 10
-    - identifier: About
-      name: About
-      url: /about
-      weight: 20
     - identifier: Projects
       name: Projects
       url: /projects
-      weight: 30
+      weight: 20
